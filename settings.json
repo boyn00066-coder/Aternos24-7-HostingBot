@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "babamayerdoaSMP.aternos.me",
+    "port": 55848,
     "version": "",
     "try-creative": false
   },
